@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "403993756640",
+    "project_id": "rntodoapp-2ea49",
+    "storage_bucket": "rntodoapp-2ea49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403993756640:android:1c14756f0c739d02156185",
+        "android_client_info": {
+          "package_name": "com.firebasetodoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403993756640-dh2pq18maqv3dq477kl2a8st3ct7f40p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCypkRvCAehrpQY95icr2d7Mq1d0xKaZMY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403993756640-dh2pq18maqv3dq477kl2a8st3ct7f40p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
